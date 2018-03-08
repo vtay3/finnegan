@@ -1,2 +1,4 @@
 class ProblemSolver
 
+def dothis
+
